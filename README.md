@@ -14,6 +14,11 @@ npm run serve
 ```
 npm run build
 ```
+### Demo
+http://storefront.palashchenko.ru/
+
+email: test@mail
+password: 123456
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
