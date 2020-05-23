@@ -17,7 +17,7 @@ npm run build
 ### Demo
 http://storefront.palashchenko.ru/
 
-email: test@mail
+email: test@mail.ru
 password: 123456
 
 ### Customize configuration
